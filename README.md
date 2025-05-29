@@ -110,7 +110,7 @@ You can customize gestures and their associated messages in the `gestures.json` 
 
 **Shiboshree Roy**
 Full Stack Developer & Open Source Contributor
-[GitHub](https://github.com/shiboshree-roy) • [LinkedIn](https://www.linkedin.com/in/shiboshree-roy)
+[GitHub](https://github.com/shiboshreeroy) • [LinkedIn](https://www.linkedin.com/in/shiboshree-roy)
 
 ---
 
